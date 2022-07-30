@@ -21,25 +21,25 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['94763427338']
-global.premium = ['94763427338']
-global.ownernomer = '94763427338'
-global.ownername = '៚ᴠɪʜͥᴀɴͣɢͫᴀ ʏᴛ͢⁸⁵⁴¹⃟✦⃝̮̮〽️'
-global.botname = 'VIHANGA MD BOT'
-global.footer = 'VIHANGA MD'
-global.cap = '*Genarated By Vihanga Md*'
+global.owner = ['94784234887']
+global.premium = ['94784234887']
+global.ownernomer = '94784234887'
+global.ownername = 'SASINDU'
+global.botname = 'SASINDU MD BOT'
+global.footer = 'SASINDU MD'
+global.cap = '*Genarated By SASINDU Md*'
 global.ig = 'https://github.com/vihangabot'
-global.region = 'Sri Lanka, Sabaragamuwa, Embilipitiya'
+global.region = 'Sri Lanka, Ampara, Padiyathalawa'
 global.sc = 'https://github.com/vihangabot'
-global.myweb = 'https://chat.whatsapp.com/BDge3i6chrQKWkkSRellyT'
-global.packname = 'Vihanga Md Sticker Bot'
-global.author = '៚ᴠɪʜͥᴀɴͣɢͫᴀ ʏᴛ͢⁸⁵⁴¹⃟✦⃝̮̮〽️'
-global.autobio = 'true'
+global.myweb = 'http://wa.me/+94784234887?text=_𝐇𝐞𝐲:-/🥵💞✨_'
+global.packname = 'SASINDU Md Sticker Bot'
+global.author = 'SASINDU'
+global.autobio = 'false'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    success: 'හරි ✓',
+    success: 'Done ✓',
     admin: 'This Feature Is Only For Admin!',
     botAdmin: 'Bot Must Be Admin First!',
     owner: 'This Feature Is Only For Owner!',
